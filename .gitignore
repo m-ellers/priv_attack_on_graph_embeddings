@@ -1,0 +1,8 @@
+/__pycache__/
+**/__pycache__/
+/results/
+/venv/
+/venv/*
+/.mypy_cache/
+/.mypy_cache/*
+/main/memory_access/
